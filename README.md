@@ -1,7 +1,7 @@
 # emfcamp-pi
 Code that will run on the Raspberry Pi 3 at
-`Electromagnetic Field <http://emfcamp.org>`_ in 
-`The Maths Village <https://wiki.emfcamp.org/wiki/Village:The_Maths_Village>`_.
+[Electromagnetic Field](http://emfcamp.org) in 
+[The Maths Village](https://wiki.emfcamp.org/wiki/Village:The_Maths_Village>).
 
 I will be setting cron jobs on the Pi to:
 - Run `run_minute.py` every minute.
