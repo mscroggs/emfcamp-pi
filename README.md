@@ -8,4 +8,6 @@ I will be setting cron jobs on the Pi to:
 - Run `run_20min.py` every 20 minutes.
 - Run `run_hour.py` every hour.
 
-Before EMF starts, I will install all python packages named in `requirements.txt`.
+Before EMF starts, I will install all python packages named in
+`requirements-pip.txt` (using `pip`) and I will install all the packages in
+`requirements-apt-get.txt` (using `apt-get`).
