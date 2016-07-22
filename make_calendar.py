@@ -17,6 +17,7 @@ def add_event(name, s, e):
     event.add('dtstart', datetime(s[0],s[1],s[2],s[3],s[4],s[5],tzinfo=pytz.timezone("Europe/London")))
     event.add('dtend', datetime(e[0],e[1],e[2],e[3],e[4],e[5],tzinfo=pytz.timezone("Europe/London")))
     event.add('dtstamp', datetime(2016,8,1,0,10,0,tzinfo=pytz.timezone("Europe/London")))
+    event.add('location',"The Maths Village marquee")
     event['uid'] = 'event-'+str(event_n)+'@mscroggs.co.uk'
     event.add('priority', 5)
 
