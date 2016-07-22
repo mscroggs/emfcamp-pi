@@ -15,6 +15,7 @@ in `requirements-other.txt`.
 
 The Pi will be connected to:
 - A recipt printer (see `printer.py`).
+- The internet via an ethernet cable.
 
 The Pi will:
 - Print out everything on Twitter with [#tweetprinter](https://twitter.com/hashtag/tweetprinter?f=tweets&vertical=default&src=hash).
