@@ -20,4 +20,4 @@ The Pi will be connected to:
 The Pi will:
 - Print out everything on Twitter with [#tweetprinter](https://twitter.com/hashtag/tweetprinter?f=tweets&vertical=default&src=hash).
 - Upload the village events calendar to [mscroggs.co.uk/emfcal](http://mscroggs.co.uk/emfcal).
-- Tweet as (@emfscroggsbot)[https://twitter.com/emfscroggsbot].
+- Tweet as [@emfscroggsbot](https://twitter.com/emfscroggsbot).
