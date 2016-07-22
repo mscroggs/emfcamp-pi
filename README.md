@@ -17,12 +17,13 @@ in `requirements-other.txt`.
 The Pi will be connected to:
 - A recipt printer (see `printer.py`).
 - The internet via an ethernet cable.
+- A screen.
 
 The Pi will:
 - Print out everything on Twitter with [#tweetprinter](https://twitter.com/hashtag/tweetprinter?f=tweets&vertical=default&src=hash).
 - Upload the village events calendar to [mscroggs.co.uk/emfcal](http://mscroggs.co.uk/emfcal).
 - Tweet as [@emfscroggsbot](https://twitter.com/emfscroggsbot).
-
+- Display [EMFFAX](https://github.com/mscroggs/KLBFAX)
 
 ## What each file does.
 - `config.py` contains login information for Twitter (not shared on GitHub obvs).
