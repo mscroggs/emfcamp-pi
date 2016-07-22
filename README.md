@@ -22,3 +22,15 @@ The Pi will:
 - Print out everything on Twitter with [#tweetprinter](https://twitter.com/hashtag/tweetprinter?f=tweets&vertical=default&src=hash).
 - Upload the village events calendar to [mscroggs.co.uk/emfcal](http://mscroggs.co.uk/emfcal).
 - Tweet as [@emfscroggsbot](https://twitter.com/emfscroggsbot).
+
+
+## What each file does.
+- `config.py` contains login information for Twitter (not shared on GitHub obvs).
+- `events.py` contains a list of events in the village.
+- `make_calendar.py` converts the list of events into an icalendar file.
+- `printer.py` contains functions that allow use of the receipt printer.
+- `README.md` is this readme file.
+- `requirements-*.txt` are text files telling me what needs installing on the Pi.
+- `run_*.py` are files that will be run by cron.
+- `tweet_about_events.py` will send tweets reminding people that events are about to start.
+- `tweet.py` contains functions that will send tweets.
