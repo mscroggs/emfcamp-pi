@@ -12,3 +12,6 @@ Before EMF starts, I will install all python packages named in
 `requirements-pip.txt` (using `pip`), install all the packages in
 `requirements-apt-get.txt` (using `apt-get`), and I so all the things
 in `requirements-other.txt`.
+
+The Pi will be connected to:
+- A recipt printer (see `printer.py`).
