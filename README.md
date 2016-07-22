@@ -2,6 +2,7 @@
 Code that will run on the Raspberry Pi 3 at
 [Electromagnetic Field](http://emfcamp.org) in 
 [The Maths Village](https://wiki.emfcamp.org/wiki/Village:The_Maths_Village>).
+Before EMF, the Pi will be running in my flat.
 
 I will be setting cron jobs on the Pi to:
 - Run `run_minute.py` every minute.
