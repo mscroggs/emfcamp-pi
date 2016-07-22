@@ -32,5 +32,6 @@ The Pi will:
 - `README.md` is this readme file.
 - `requirements-*.txt` are text files telling me what needs installing on the Pi.
 - `run_*.py` are files that will be run by cron.
+- `tweet_about_days.py` will send tweets reminding people that it is the (n)th day of EMF.
 - `tweet_about_events.py` will send tweets reminding people that events are about to start.
 - `tweet.py` contains functions that will send tweets.
