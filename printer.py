@@ -1,5 +1,7 @@
 def print_string(text):
+    from time import strftime
     with open("/home/pi/.temp/text","w") as f:
+        f.write(strftime("%Y-%m-%d %H:%M"))
         f.write(text.encode('utf8'))
 
     import cups
