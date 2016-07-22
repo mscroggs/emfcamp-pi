@@ -1,0 +1,2 @@
+from tweetprinter import hashtag_tweetprinter
+hashtag_tweetprinter()
