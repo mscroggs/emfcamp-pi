@@ -10,5 +10,5 @@ I will be setting cron jobs on the Pi to:
 
 Before EMF starts, I will install all python packages named in
 `requirements-pip.txt` (using `pip`), install all the packages in
-`requirements-apt-get.txt` (using `apt-get`), and I will run all 
-the commands in `requirements-bash.txt` (in bash).
+`requirements-apt-get.txt` (using `apt-get`), and I so all the things
+in `requirements-other.txt`.
