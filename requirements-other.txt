@@ -2,3 +2,4 @@ run `mkdir /home/pi/.emf`
 set up shared keys with mscroggs.co.uk
 add mscroggs.co.uk to .ssh/config. Name it mscroggs
 set cron jobs to run the files in here
+put config.py with Twitter API keys on Pi
