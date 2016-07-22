@@ -1,0 +1,5 @@
+run `mkdir /home/pi/.emf`
+
+set up shared keys with mscroggs.co.uk
+
+add mscroggs.co.uk to .ssh/config. Name it mscroggs
