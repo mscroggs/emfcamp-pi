@@ -1,3 +1,6 @@
+from printer import print_string
+from printer import print_picture
+
 def hashtag_tweetprinter():
     import json
     results = read_twitter()
@@ -7,7 +10,7 @@ def hashtag_tweetprinter():
     print len(results["statuses"])
     for a in results["statuses"]:
         if a["id"] not in ids and a["text"][:2]!="RT":
-            try:
+#            try:
                 print_string("\n@" + a["user"]["screen_name"]+"\n"+a["text"]+"\n")
                 print("\n@" + a["user"]["screen_name"]+"\n"+a["text"]+"\n")
                 ids.append(a["id"])
@@ -15,9 +18,9 @@ def hashtag_tweetprinter():
                     print(a["entities"]["media"][0]["media_url"])
                     print_picture(a["entities"]["media"][0]["media_url"])
                 break
-            except:
-                print "failed"
-                pass
+ #           except:
+  #              print "failed"
+   #             pass
     
     with open("/home/pi/.emf/ids","w") as f:
         json.dump({"ids":ids},f)
