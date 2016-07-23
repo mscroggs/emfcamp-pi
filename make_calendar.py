@@ -30,5 +30,5 @@ for ev in events:
 
 
 
-with open('/home/pi/.emf/mathscal.ics', 'w') as f:
+with open('/home/pi/.emf/mathscal.ical', 'w') as f:
     f.write(cal.to_ical())

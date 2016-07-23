@@ -1,6 +1,7 @@
 from events import events
 from tweet import send_tweet
-import ptyz
+import pytz
+from datetime import datetime
 
 now = datetime.now(pytz.timezone("Europe/London"))
 
