@@ -12,7 +12,7 @@ events = [
           # Sunday
           ('Morning yoga',(2016,8,7,9,0,0),(2016,8,7,10,00,0)),
           ('The Maths of poker',(2016,8,7,10,0,0),(2016,8,7,11,00,0),"Basic mathematics and game theory of poker for beginners. We can have a game at the end if people want."),
-          ('Cauchy\'s functional equation',(2016,8,7,11,0,0),(2016,8,7,11,20,0),"An interactive session investigation solutions to Cauchy's functional equation (f(x+y)=f(x)+f(y)).")
+          ('Cauchy\'s functional equation',(2016,8,7,11,0,0),(2016,8,7,11,20,0),"An interactive session investigating solutions to Cauchy's functional equation (f(x+y)=f(x)+f(y)).")
          ]
 
 # unscheduled so far (ignored from ical feed)
