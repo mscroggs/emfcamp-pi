@@ -33,6 +33,9 @@ for ev in events:
         add_event(ev[0],ev[0],ev[1],ev[2])
 
 
-
-with open('/home/pi/.emf/mathscal.ical', 'w') as f:
-    f.write(cal.to_ical())
+try:
+    with open('/home/pi/.emf/mathscal.ical', 'w') as f:
+        f.write(cal.to_ical())
+except:
+    with open('mathscal.ical', 'w') as f:
+        f.write(cal.to_ical())

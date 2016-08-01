@@ -5,6 +5,7 @@ events = [
           ('Flexagon making',(2016,8,5,20,30,0),(2016,8,5,21,00,0),"We will make flexagons. This won't take an hour, so drop in whenever."),
           # Saturday
           ('Morning yoga',(2016,8,6,9,0,0),(2016,8,6,10,00,0)),
+          ('The Maths of poker',(2016,8,6,10,0,0),(2016,8,6,11,00,0),"Basic mathematics and game theory of poker for beginners. We can have a game at the end if people want."),
           # Sunday
           ('Morning yoga',(2016,8,7,9,0,0),(2016,8,7,10,00,0))
          ]
