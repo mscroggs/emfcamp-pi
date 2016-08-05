@@ -7,9 +7,8 @@ events = [
           # Saturday
           ('Morning yoga',(2016,8,6,9,0,0),(2016,8,6,10,00,0),"Disclaimer: not maths"),
           ('First aid workshop',(2016,8,6,10,30,0),(2016,8,6,11,00,0),"We will show you how to perform CPR on a dummy. This is for fun and is obviously not actual first aid training.\nDisclaimer: not maths"),
-          ('Suturing (stitching) workshop',(2016,8,6,11,00,0),(2016,8,6,11,20,0),"Learn how to put medical style stiches into pork belly. Useful for fixing clothes or multiple bird roasts. This is for fun and is obviously not actual medical training.\nDisclaimer: not maths"),
-          ('Suturing (stitching) workshop',(2016,8,6,11,20,0),(2016,8,6,11,40,0),"Learn how to put medical style stiches into pork belly. Useful for fixing clothes or multiple bird roasts. This is for fun and is obviously not actual medical training.\nDisclaimer: not maths"),
-          ('Suturing (stitching) workshop',(2016,8,6,11,40,0),(2016,8,6,12,00,0),"Learn how to put medical style stiches into pork belly. Useful for fixing clothes or multiple bird roasts. This is for fun and is obviously not actual medical training.\nDisclaimer: not maths"),
+          ('Suturing (stitching) workshop',(2016,8,6,11,00,0),(2016,8,6,11,30,0),"Learn how to put medical style stiches into pork belly. Useful for fixing clothes or multiple bird roasts. This is for fun and is obviously not actual medical training.\nDisclaimer: not maths"),
+          ('Suturing (stitching) workshop',(2016,8,6,11,30,0),(2016,8,6,12,00,0),"Learn how to put medical style stiches into pork belly. Useful for fixing clothes or multiple bird roasts. This is for fun and is obviously not actual medical training.\nDisclaimer: not maths"),
           ('Giant Cards Against Humanity game',(2016,8,6,21,0,0),(2016,8,6,23,00,0)),
           # Sunday
           ('Morning yoga',(2016,8,7,9,0,0),(2016,8,7,10,00,0),"Disclaimer: not maths"),
