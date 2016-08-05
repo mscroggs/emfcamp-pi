@@ -1,5 +1,6 @@
 events = [
           # Friday
+          ('Test event',(2016,8,5,15,40,0),(2016,8,5,15,45,0),"At this event, we will test our Twitter bot."),
           ('Maths Jam',(2016,8,5,20,0,0),(2016,8,5,23,59,0),"An evening of maths discussion and puzzles, like Maths Jam (http://mathsjam.com). With regular trips to the bar to buy more beer."),
           ('Hyperbolic crochet workshop',(2016,8,5,20,15,0),(2016,8,5,22,00,0),"We will teach you how to make hyperbolic surfaces using crochet. No prior ability to crochet required."),
           ('Flexagon making',(2016,8,5,20,30,0),(2016,8,5,23,00,0),"We will make flexagons. Drop in any time this evening, they don't take very long."),
